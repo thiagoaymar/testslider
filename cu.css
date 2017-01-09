@@ -90,6 +90,11 @@ span {
 	top: 5px;
 }
 
+.prev:after {
+	-webkit-transform: rotate(132deg);
+	top: 19px;
+}
+
 figure:hover span {
 	opacity: 0.76;
 	filter: alpha(opacity=76);
